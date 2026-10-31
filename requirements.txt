@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+ploty.express
+matplotib.pyplot
+datetime
